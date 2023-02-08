@@ -22,3 +22,7 @@ See a demo of the app at https://www.youtube.com/watch?v=GgPz8Zy8L2A
 2. Set StereoKit_Android as the startup project. 
 3. Plug your Meta Quest 2 into your computer.
 4. Click run!
+
+## Contributors:
+Flavius Lador, Jack Daus and Myself.
+]]
